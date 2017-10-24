@@ -1,0 +1,32 @@
+﻿<Window x:Class="GuessYourCard.GuessCard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GuessYourCard"
+        mc:Ignorable="d"
+        Title="GuessCard" Height="491.134" Width="627.948" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Background="AliceBlue">
+    <Grid>
+        <ListBox x:Name="leftBox" HorizontalAlignment="Left" Height="278" VerticalAlignment="Top" Width="180" Margin="34,46,0,0"/>
+        <ListBox x:Name="middleBox" HorizontalAlignment="Left" Height="278" VerticalAlignment="Top" Width="180" Margin="219,46,0,0"/>
+        <ListBox x:Name="rightBox" HorizontalAlignment="Left" Height="278" VerticalAlignment="Top" Width="180" Margin="404,46,0,0"/>
+        <Button x:Name="btnLeft" Content="Left Pile" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="81,330,0,0" Height="26" Click="btnLeft_Click"/>
+        <Button x:Name="btnMiddle" Content="Middle Pile" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="264,330,0,0" Height="26" Click="btnMiddle_Click"/>
+        <Button x:Name="btnRight" Content="Right Pile" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="448,330,0,0" Height="26" Click="btnRight_Click"/>
+        <Button x:Name="btnPickYourCard" Content="Pick Your Card" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" Margin="449,385,0,0" Height="44" Click="btnPickYourCard_Click"/>
+        <Label x:Name="pickCardLabel" Content="You must pick your card first! ->" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="264,394,0,0" Width="180" Height="28"/>
+        <Menu HorizontalAlignment="Left" Height="25" Margin="3,0,0,0" VerticalAlignment="Top" Width="609">
+            <MenuItem Header="File" Width="65" Height="25" >
+                <MenuItem Header="New Game" Click="NewGame_Click"/>
+                <Separator />
+                <MenuItem Header="Exit" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Help" Width="65" Height="25" >
+                <MenuItem Header="Display Steps" Click="DisplaySteps_Click" />
+                <Separator />
+                <MenuItem Header="About" Click="About_Click" />
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

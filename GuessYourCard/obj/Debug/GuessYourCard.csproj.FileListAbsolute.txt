@@ -1,0 +1,81 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.g.cs
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\App.g.cs
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.lref
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.baml
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.g.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.Properties.Resources.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csproj.GenerateResource.Cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\PickCard.g.cs
+c:\users\wwstudent\documents\visual studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\PickCard.baml
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe.config
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.pdb
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csprojResolveAssemblyReference.cache
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.g.cs
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\PickCard.g.cs
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\App.g.cs
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.cache
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.lref
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.baml
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\PickCard.baml
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.g.resources
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.Properties.Resources.resources
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csproj.GenerateResource.Cache
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.exe
+C:\Users\RAWR\Desktop\GuessYourCard\GuessYourCardGame-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.pdb
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe.config
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.pdb
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.g.cs
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\PickCard.g.cs
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\App.g.cs
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.cache
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.lref
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.baml
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\PickCard.baml
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.g.resources
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.Properties.Resources.resources
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.exe
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.pdb
+C:\Users\wwstudent\Desktop\IsThisYourCard\IsThisYourCard-master\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csprojResolveAssemblyReference.cache
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe.config
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.pdb
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csprojResolveAssemblyReference.cache
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.g.cs
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\PickCard.g.cs
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\App.g.cs
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.cache
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.lref
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.baml
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\PickCard.baml
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.g.resources
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.Properties.Resources.resources
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csproj.GenerateResource.Cache
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.exe
+C:\Users\RAWR\Desktop\IsThisYourCard-master\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.pdb
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csprojResolveAssemblyReference.cache
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.g.cs
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\PickCard.g.cs
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\App.g.cs
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.cache
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard_MarkupCompile.lref
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.exe
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.pdb
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe.config
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.exe
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\bin\Debug\GuessYourCard.pdb
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessCard.baml
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\PickCard.baml
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.g.resources
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.Properties.Resources.resources
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csproj.GenerateResource.Cache
+C:\Users\RAWR\Documents\Visual Studio 2017\Projects\GuessYourCard\GuessYourCard\obj\Debug\GuessYourCard.csproj.CoreCompileInputs.cache
