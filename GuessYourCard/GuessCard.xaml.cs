@@ -110,6 +110,10 @@ namespace GuessYourCard
             DisplayCards();
         }
 
+        ///=======================================================
+        ///***METHODS ARE TOO LONG*** The following 3 methods will
+        ///be refactored and split into 9 appropriate methods.
+        ///=======================================================
         private void ShuffleLeft()
         {
             
